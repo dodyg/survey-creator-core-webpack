@@ -1,6 +1,6 @@
 # The error
 
-![Error](error.png")
+<img src="error.png" />
 
 
 ## Getting Started with Create React App
